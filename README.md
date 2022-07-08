@@ -1,3 +1,7 @@
+##### Basic TODO App for practice. Used only React for this version.
+
+**Note: This code does not include a backend. Also, some of the react syntax may be outdated.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
